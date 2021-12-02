@@ -5,6 +5,6 @@ En este repositorio están los tracks aportados en el **Grupo Tracks** dentro de
 
 ### Links a los grupos:
 
-* Grupo usuarios: [t.me/MotoTrailGaliciaOFFRoad](t.me/MotoTrailGaliciaOFFRoad)
-* Grupo tracks: [t.me/TracksMotoTrailGaliciaOFFRoad](t.me/TracksMotoTrailGaliciaOFFRoad)
+* Grupo usuarios: [t.me/MotoTrailGaliciaOFFRoad](https://t.me/MotoTrailGaliciaOFFRoad)
+* Grupo tracks: [t.me/TracksMotoTrailGaliciaOFFRoad](https://t.me/TracksMotoTrailGaliciaOFFRoad)
  
